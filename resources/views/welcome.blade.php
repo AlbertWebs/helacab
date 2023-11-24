@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="{{asset('theme/css/responsive.css')}}">
 
 
-    <title>Moovi - Movie &amp; Video Release HTML Template</title>
+    <title>Hela Cab Show - ShemaQ Productions</title>
 
     <link rel="icon" type="image/png" href="images/favicon.png')}}">
 </head>
