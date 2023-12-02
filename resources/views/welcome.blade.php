@@ -48,7 +48,7 @@
         <!-- Menu For Mobile Device -->
         <div class="mobile-nav">
             <a href="index.html" class="logo">
-                <img src="{{asset('theme/images/logo.png')}}" alt="Logo">
+                <img src="{{asset('theme/images/logo1.png')}}" alt="Logo">
             </a>
         </div>
 
@@ -57,7 +57,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
                     <a class="navbar-brand" href="index.html">
-                        <img src="{{asset('theme/images/logo.png')}}" alt="Logo">
+                        <img width="150" src="{{asset('theme/images/logo1.png')}}" alt="Logo">
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav">
